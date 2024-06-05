@@ -2,7 +2,7 @@
 
 meu nome e filipe 
 
-- estou estudando no alura 
+- estou estudando no alura ![](https://cursos.alura.com.br/dashboard)
 - estou me desenvolvendo na linguagem javascript
 - utilizo esse espaço para a minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 - 
