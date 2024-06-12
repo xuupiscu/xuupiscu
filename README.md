@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil 🤠
 
-meu nome e filipe beiçudo
+meu nome e filipe 
 
 - estou estudando no alura ![](https://cursos.alura.com.br/dashboard)
 - estou me desenvolvendo na linguagem javascript
